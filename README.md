@@ -3,9 +3,9 @@
 ## 📌 Project Description
 This project is a vehicle counter that uses OpenCV and YOLO for vehicle detection. It can detect and differentiate between various types of vehicles such as trucks, bicycles, cars, and buses. Each detected vehicle is assigned a unique tracker ID. The application also counts the total number of vehicles that pass through a specified region.
 
-This project demonstrates the practical application of object detection, object tracking, and video analytics for intelligent traffic monitoring.
- ---
+> This project demonstrates the practical application of object detection, object tracking, and video analytics for intelligent traffic monitoring.
 
+---
 ## ✨ Features
 
 - 🚘 **Real-Time Vehicle Detection**
