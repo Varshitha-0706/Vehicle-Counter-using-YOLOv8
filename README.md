@@ -5,7 +5,6 @@ This project is a vehicle counter that uses OpenCV and YOLO for vehicle detectio
 
 > This project demonstrates the practical application of object detection, object tracking, and video analytics for intelligent traffic monitoring.
 
----
 ## ✨ Features
 
 - 🚘 **Real-Time Vehicle Detection**
@@ -30,14 +29,13 @@ This project is a vehicle counter that uses OpenCV and YOLO for vehicle detectio
 - 📹 **Live Visualization**
   - Displays bounding boxes, class labels, tracking IDs, and the total vehicle count in real time.
 
----
 ## 🛠️ Technologies Used
 
 - Python
 - OpenCV
 - YOLOv8 (Ultralytics)
 - NumPy
----
+
 ## 📂 Project Workflow
 
 1. Read traffic video frames.
@@ -48,8 +46,6 @@ This project is a vehicle counter that uses OpenCV and YOLO for vehicle detectio
 6. Update the vehicle count.
 7. Display annotated video with live statistics.
 
----
-
 ## 🎯 Applications
 
 - Smart Traffic Monitoring
@@ -57,8 +53,6 @@ This project is a vehicle counter that uses OpenCV and YOLO for vehicle detectio
 - Intelligent Transportation Systems (ITS)
 - Vehicle Volume Analysis
 - Urban Traffic Management
-
----
 
 ## 🚀 Future Enhancements
 
