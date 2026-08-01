@@ -1,1 +1,11 @@
-__pycache__/\n*.py[cod]\n*.pyo\n*.pyd\n*.so\n*.dylib\n*.egg-info/\n*.DS_Store\nyolov8n.pt\n*.partial\nVideos/\n*.log\n
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg-info/
+*.DS_Store
+yolov8n.pt
+*.partial
+*.log
